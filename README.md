@@ -10,7 +10,7 @@
 
 Este app foi desenvolvido utilizando as seguintes tecnologias:
 
-- [TypeScript]([https://](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org)
 - [React.js](https://https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
