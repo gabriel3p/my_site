@@ -18,10 +18,7 @@ export default createGlobalStyle`
         --action_tertiary: ${props => props.theme.colors.action_tertiary};
 
         --foreground_primary: ${props => props.theme.colors.foreground_primary};
-        --foreground_secondary: ${props =>
-            props.theme.colors.foreground_secondary};
-        --foreground_tertiary: ${props =>
-            props.theme.colors.foreground_tertiary};
+
 
         --white: hsl(0, 0%, 100%);
 
