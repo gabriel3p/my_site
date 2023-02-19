@@ -103,4 +103,36 @@ export default createGlobalStyle`
     max-width: 40rem;
 }
 
+    @media only screen and (max-height: 750px ) and (max-width: 370px) {
+
+
+    .card {
+        height: 100vh;
+        overflow: scroll;
+        scrollbar-width: thin !important;
+        scrollbar-color: #aab7cf transparent !important;
+    }
+
+    .card .card-footer{
+        margin-top: 10rem;
+    }
+
+}
+
+    @media only screen and (max-height: 560px){
+
+
+    .card {
+        height: 100vh;
+        overflow: scroll;
+        scrollbar-width: thin !important;
+        scrollbar-color: #aab7cf transparent !important;
+    }
+
+    .card .card-footer{
+        margin-top: 10rem;
+    }
+
+}
+
 `;
